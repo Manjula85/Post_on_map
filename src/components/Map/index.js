@@ -1,9 +1,15 @@
-import React from 'react';
+import React, { useEffect, useState } from "react";
+import map_data from "../../map/test";
 
 function Map() {
+
+  //Demo();
+ 
   return (
     <section>
-      <h1 id="Map">Who am I?</h1>
+      {/* The div element for the map */}
+      {/* <div id="map"></div> */}
+      <h1>Did this load up?</h1>
     </section>
   );
 }
