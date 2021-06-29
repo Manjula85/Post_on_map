@@ -18,6 +18,6 @@ To create a React application with Google maps
 
 
 ## Relevant links
-URL: https://manjula85.github.io/CMS-blog-Manjula/
+URL: (under construction)
 
-Git hub link: https://github.com/Manjula85/react-portfolio-manjula
+Git hub link: https://github.com/Manjula85/Post_on_map_react
